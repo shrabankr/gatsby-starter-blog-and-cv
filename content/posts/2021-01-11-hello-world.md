@@ -1,7 +1,7 @@
 ---
 template: post
 title: Hello World
-slug: 'slug:   encoding: "ascii"   clean_accents: true   sanitize_replacement: "_"'
+slug: /posts/hello
 draft: true
 priority: 0
 date: 2021-01-11T09:17:30.886Z
