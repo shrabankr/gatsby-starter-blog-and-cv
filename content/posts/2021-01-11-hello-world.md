@@ -3,7 +3,7 @@ template: post
 title: Hello World
 slug: /posts/hello
 draft: true
-priority: 0
+priority: 5
 date: 2021-01-11T09:17:30.886Z
 description: Hello World!!!!!!!!!!!!!
 category: Test Cat
